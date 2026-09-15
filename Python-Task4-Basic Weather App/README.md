@@ -16,7 +16,7 @@ If `py --version` says that `py` is not recognized, install Python from [python.
 
 You do **not** need to make a virtual environment or install packages first. Follow these exact small steps:
 
-1. Open PowerShell.
+1. Open PowerShell in this folder whare you save the files,Then give the commands
 2. Copy and paste this line. Then press **Enter**:
 
    ```powershell
