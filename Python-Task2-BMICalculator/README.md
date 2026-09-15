@@ -3,7 +3,7 @@
 A desktop Python BMI calculator with named user records, SQLite persistence, colour-coded feedback, and a Matplotlib trend chart.
 
 ## Run it
-
+Open PowerShell in this folder whare you save the files,Then give the commands
 1. Install Matplotlib once, if needed:
 
    ```powershell
