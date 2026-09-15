@@ -16,7 +16,7 @@ A beginner-friendly Python GUI that generates cryptographically secure passwords
 ## Run it locally
 
 1. Install [Python 3.8 or later](https://www.python.org/downloads/). During installation on Windows, select **Add Python to PATH**.
-2. Open PowerShell in this folder.
+2. Open PowerShell in this folder whare you save the files.
 3. Install the one extra package:
 
    ```powershell
